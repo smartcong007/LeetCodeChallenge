@@ -1,2 +1,2 @@
-             # LeetCode补脑计划
- > <font face="微软雅黑" color=#deb887 size=12>A plan to go over top 100 problems from Leetcode.Every problem has two solutions,one is my own and another is the great solution of other guys!</font>
+# LeetCode补脑计划
+> <font face="微软雅黑" color=#deb887 size=12>A plan to go over top 100 problems from Leetcode.Every problem has two solutions,one is my own and another is the great solution of other guys!</font>
