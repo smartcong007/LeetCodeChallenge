@@ -1,4 +1,4 @@
-# LeetCode补脑计划
+# [LeetCode补脑计划](https://leetcode.com/problemset/all/)
 > <font face="微软雅黑" color=lightslategray size=12>A plan to go over top 100 problems from Leetcode.Every problem has two solutions,one is my own and another is the great solution of other guys!</font>
 ## problem list
 1. Valid Parentheses
