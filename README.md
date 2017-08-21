@@ -7,4 +7,5 @@
 4. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 5. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 6. [Median of Two Sorted Arrays  ](https://leetcode.com/problems/median-of-two-sorted-arrays)
-7. ......
+7. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+8. ......
