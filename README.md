@@ -8,4 +8,5 @@
 5. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 6. [Median of Two Sorted Arrays  ](https://leetcode.com/problems/median-of-two-sorted-arrays)
 7. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
-8. ......
+8. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+9. ......
