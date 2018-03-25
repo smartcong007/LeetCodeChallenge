@@ -3,7 +3,7 @@
  */
 public class ReverseInteger {
 
-    public int reverse(int x) {
+    public static int reverse(int x) {
         long res = 0;
         while (x!=0){
 
@@ -15,6 +15,11 @@ public class ReverseInteger {
         }else {
             return (int) res;
         }
+    }
+
+    public static void main(String[] args) {
+        int a = reverse(-1234);
+        System.out.println(a);
     }
 
 }
