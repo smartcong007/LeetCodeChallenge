@@ -11,4 +11,6 @@
 8. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 10. [Largest water tank](https://leetcode.com/problems/container-with-most-water/description/)
-11. ......
+11. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+12. [3Sum](https://leetcode.com/problems/3sum/description/)
+13. ......
